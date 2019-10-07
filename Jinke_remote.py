@@ -10,7 +10,6 @@ from datetime import date
 # 连接到数据库 数据库参数见 start.init 主要参数设置 主机名/用户名/密码/数据库/字符集
 def db_connect():
     try:
-        pmt = ["rm-8vb78ejw3050i8u870o.mysql.zhangbei.rds.aliyuncs.com","jincomed","Jinke@2017","","utf8"]
         db = pms.connect(host=pmt[0], user=pmt[1], passwd=pmt[2], db="h1", charset=pmt[4])
     except BaseException as inst:
         print(inst)
