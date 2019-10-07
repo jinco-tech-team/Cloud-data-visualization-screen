@@ -1,3 +1,6 @@
+# Click the below link to see the product.
+https://jinco-tech-team.github.io/Cloud-data-visualization-screen/
+
 # jinco-tech-team.github.io
 We use python to connect to cloud database and html,css,js to make the web. This data visualization is based on Highchart data visualization technology. We develop it for Jinke medical technology corporation.(Beijing)
 
@@ -19,3 +22,4 @@ The lower right chart shows the recent whole week cases distrubition.
 Plus, all charts are dynamic. Move your mouth to see it.
 
 For the real product, it is a big screen. We add an interface which achieve the maniputation of screen action by your phone. You could use your phone to control the screen. 
+
