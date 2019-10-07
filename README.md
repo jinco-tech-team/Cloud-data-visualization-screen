@@ -1,7 +1,7 @@
 # Click the below link to see the product.
 https://jinco-tech-team.github.io/Cloud-data-visualization-screen/
 
-# jinco-tech-team.github.io
+# Cloud-data-visualization-screen
 We use python to connect to cloud database and html,css,js to make the web. This data visualization is based on Highchart data visualization technology. We develop it for Jinke medical technology corporation.(Beijing)
 
 This is just the codes to show our product.(Not connect to cloud, rather, we simply use json to show.)
